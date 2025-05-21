@@ -562,12 +562,16 @@ video {
   margin-top: 2.5rem;
 }
 
-.mt-5 {
-  margin-top: 1.25rem;
-}
-
 .mt-14 {
   margin-top: 3.5rem;
+}
+
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
+.mt-20 {
+  margin-top: 5rem;
 }
 
 .mt-3 {
@@ -576,6 +580,10 @@ video {
 
 .mt-4 {
   margin-top: 1rem;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
 }
 
 .flex {
@@ -598,16 +606,20 @@ video {
   justify-content: space-around;
 }
 
+.gap-10 {
+  gap: 2.5rem;
+}
+
 .gap-2 {
   gap: 0.5rem;
 }
 
-.gap-5 {
-  gap: 1.25rem;
+.gap-3 {
+  gap: 0.75rem;
 }
 
-.gap-10 {
-  gap: 2.5rem;
+.gap-5 {
+  gap: 1.25rem;
 }
 
 .border-2 {
@@ -648,8 +660,8 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
 }
 
-.p-\[10px_25px\] {
-  padding: 10px 25px;
+.p-10 {
+  padding: 2.5rem;
 }
 
 .p-20 {
@@ -660,20 +672,20 @@ video {
   padding: 1.25rem;
 }
 
+.p-\[10px_25px\] {
+  padding: 10px 25px;
+}
+
 .text-center {
   text-align: center;
 }
 
-.text-\[20px\] {
-  font-size: 20px;
-}
-
-.text-\[50px\] {
-  font-size: 50px;
-}
-
 .text-\[14px\] {
   font-size: 14px;
+}
+
+.text-\[20px\] {
+  font-size: 20px;
 }
 
 .text-\[40px\] {
@@ -682,6 +694,10 @@ video {
 
 .text-\[48px\] {
   font-size: 48px;
+}
+
+.text-\[50px\] {
+  font-size: 50px;
 }
 
 .font-bold {
